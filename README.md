@@ -1,4 +1,4 @@
-## Bem-vindo(a) ao meu perfil, eu me chamo Guilherme!
+## Bem-vindo(a) ao meu perfil!
 
  <div>
    <a href="https://github.com/Guilherme-BFreitas">
