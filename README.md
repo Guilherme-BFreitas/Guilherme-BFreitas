@@ -1,4 +1,4 @@
-## Bem-vindo(a) ao perfil do Dev em Dobro 😁
+## Bem-vindo(a) ao meu perfil, eu me chamo Guilherme!
 
  <div>
    <a href="https://github.com/Guilherme-BFreitas">
