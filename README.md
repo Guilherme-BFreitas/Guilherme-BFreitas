@@ -1,5 +1,16 @@
-<h1 align="center">Hi 👋, I'm Guilherme Bravo</h1>
+<h1 align="center">👾Guilherme Bravo</h1>
 <h3 align="center">Currently graduating in computer science!</h3>
+
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=guilherme-bfreitas&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=guilherme-bfreitas&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=guilherme-bfreitas&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
+
+---
+[![](https://visitcount.itsvg.in/api?id=guilherme-bfreitas&icon=0&color=0)](https://visitcount.itsvg.in)
 
 
 - 👨‍💻 All of my projects are available at [https://github.com/Guilherme-BFreitas/portfolio](https://github.com/Guilherme-BFreitas/portfolio)
