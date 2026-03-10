@@ -1,7 +1,5 @@
-<h1 align="center">Hi 👋, I'm Guilherme Bravo</h1>
+<h1 align="center">Hi 👋, I'm Guilherme</h1>
 <h3 align="center">Currently graduating in computer science!</h3>
-
-<p align="left"> <a href="https://twitter.com/tooru" target="blank"><img src="https://img.shields.io/twitter/follow/tooru?logo=twitter&style=for-the-badge" alt="tooru" /></a> </p>
 
 - 👨‍💻 All of my projects are available at [https://github.com/Guilherme-BFreitas/portfolio](https://github.com/Guilherme-BFreitas/portfolio)
 
